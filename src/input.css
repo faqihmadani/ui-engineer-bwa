@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'display';
+    src: url('../assets/WEB/fonts/ClashDisplay-Semibold.woff2') format('woff2'),
+        url('../assets/WEB/fonts/ClashDisplay-Semibold.woff') format('woff');
+    font-weight: semibold;
+    font-style: semibold;
+}
